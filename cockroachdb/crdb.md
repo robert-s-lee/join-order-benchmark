@@ -55,7 +55,7 @@ EOF
 done
 ```
 
-# run CockroachDB import command
+# run queries
 ```bash
 for q in `ls [0-9]*.sql | sort -g`; do
 echo $q

@@ -1,4 +1,4 @@
-# Simple step for a Mac
+# Simple step for Mac
 
 - Follow the CockroachDB version of the below [instructions](https://github.com/gregrahn/join-order-benchmark).
 - Start a single node CockroachDB
